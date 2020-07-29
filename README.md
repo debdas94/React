@@ -1,1 +1,10 @@
 # React
+
+Hi this reporsitory contains React code to understand and learn React
+
+It will teach you react from the basics to the subsequential levels
+
+Comments are included to understand the fucntionalities
+
+
+For more Info visit : https://reactjs.org/tutorial/tutorial.html
