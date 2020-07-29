@@ -8,3 +8,8 @@ Comments are included to understand the fucntionalities
 
 
 For more Info visit : https://reactjs.org/tutorial/tutorial.html
+
+
+Note
+----
+Most of the code is written in JSX format, you can use babel compiler to run the code and test
