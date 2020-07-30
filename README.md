@@ -8,6 +8,7 @@ Comments are included to understand the fucntionalities
 
 
 For more Info visit : https://reactjs.org/tutorial/tutorial.html
+For running JSX code and test : https://jscomplete.com/playground
 
 
 Note
